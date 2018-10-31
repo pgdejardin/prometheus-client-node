@@ -1,0 +1,9 @@
+{
+  "name": "prometheus-client-node",
+  "version": "1.0.0",
+  "description": "Wrapper over prom-client for easier use of metrics in NodeJS applications",
+  "main": "index.js",
+  "repository": "git@github.com:pgdejardin/prometheus-client-node.git",
+  "author": "Paul-Guillaume Déjardin <pgdejardin@xebia.fr>",
+  "license": "MIT"
+}
