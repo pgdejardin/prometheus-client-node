@@ -75,4 +75,8 @@ typings/
 .serverless
 
 .editorconfig
-
+.gitignore
+tsconfig.json
+tslint.json
+yarn.lock
+src/
