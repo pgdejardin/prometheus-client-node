@@ -33,7 +33,7 @@ class PrometheusClient {
    * @param labels
    */
   public setDefaultLabels(labels: object) {
-    this.registry.setDefaultLabels(labels)
+    this.registry.setDefaultLabels(labels);
   }
 
   /**
